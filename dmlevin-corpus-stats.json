@@ -2,7 +2,7 @@
     "spacy_version": "3.8.4",
     "spacy_model": "en_core_web_sm",
     "date": "2025-03-25T03:44:21.711387",
-    "corpus": "aata-json",
+    "corpus": "dmlevin-pdf",
     "documents/pages": 547,
     "sentences": 14337,
     "sentence_lengths": {
