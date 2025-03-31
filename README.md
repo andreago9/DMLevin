@@ -13,7 +13,7 @@ Another such corpus, dealing with Abstract Algebra Theory and Applications by Th
 Both books are recommended by the Open Source book initiative of AIM (American Institute of Mathematics)
 
 
-**Note**: Using spaCy in Python, this process successfully extracted the relevant statistics and CoNLL-style features.
+**Note**: Using spaCy in Python, this process extracted the relevant statistics and CoNLL-style features.
 
 ---------------------
 
